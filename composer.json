@@ -1,6 +1,6 @@
 {
-  "name": "nitinchamola/graph-api-ads-sdk",
-  "description": "PHP Ads library for Facebook Business",
+  "name": "nitinchamola/php-ads-sdk",
+  "description": "PHP Ads SDK for Facebook Business",
   "type": "library",
   "keywords": [
     "facebook",
